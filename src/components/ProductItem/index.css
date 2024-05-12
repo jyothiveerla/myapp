@@ -1,0 +1,11 @@
+.bg_container {
+  display: flex;
+  flex-direction: column;
+  background-color: white;
+  box-shadow: azure;
+  margin-right: 20px;
+}
+.image {
+  height: 10vh;
+  width: 10vw;
+}
